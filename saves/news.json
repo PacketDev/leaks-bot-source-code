@@ -1,0 +1,48 @@
+{
+   "status": 200,
+   "data": {
+      "hash": "b4731de027d9e90485701261310d3ca2bf8438c7",
+      "date": "2020-11-13T14:15:14Z",
+      "image": "https://cdn.fortnite-api.com/news/v2/b4731de027d9e90485701261310d3ca2bf8438c7.gif",
+      "motds": [
+         {
+            "id": "Lachlan Set links to Item Shop",
+            "title": "Lachlan Set",
+            "tabTitle": "Icon Series",
+            "body": "Power your way to victory with Lachlan, the newest addition to the Icon Series!",
+            "image": "https://cdn2.unrealengine.com/14br-lachlan-cosmetics-motd-1920x1080-1920x1080-445911612.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-lachlan-cosmetics-motd-1024x512-1024x512-445911613.jpg",
+            "sortingPriority": 70,
+            "hidden": false
+         },
+         {
+            "id": "XP Xtravaganza Week 2",
+            "title": "XP Xtravaganza Week 2",
+            "tabTitle": "New Challenges",
+            "body": "Get the crew together and take on these party-wide challenges to finish out the Battle Pass strong!",
+            "image": "https://cdn2.unrealengine.com/14br-xp-week2-motd-1920x1080-1920x1080-504567401.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-xp-week2-motd-1024x512-1024x512-504567394.jpg",
+            "sortingPriority": 50,
+            "hidden": false
+         },
+         {
+            "id": "Blitz links to Playlist_Blitz_Duos",
+            "title": "Blitz",
+            "tabTitle": null,
+            "body": "The Storm has picked up its pace, better keep on running!",
+            "image": "https://cdn2.unrealengine.com/blitz-motd-1920x1080-1920x1080-503919574.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/blitz-motd-1024x512-ltm-blitz-1024x512-503919556.jpg",
+            "sortingPriority": 30,
+            "hidden": false
+         }
+      ],
+      "messages": [
+         {
+            "title": "Keep Your Account Secure",
+            "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+            "adspace": null
+         }
+      ]
+   }
+}

@@ -60,7 +60,7 @@ async def ping(ctx):
 		    color=0x990000)
 	await ctx.send(embed=embed)
 
-#gets ingo on any fortnite item exapmple: !search scenario
+#gets info on any fortnite item exapmple: !search scenario
 @bot.command()
 async def search(ctx, cosnamee):
 	r = requests.get(

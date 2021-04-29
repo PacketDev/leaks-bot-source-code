@@ -237,6 +237,15 @@ async def version(ctx):
 	embed = discord.Embed(title=f"{version} ", description="")
 	await ctx.send(embed=embed)
 
+@bot.command()
+async def fltoken(ctx):
+	r = requests.get('https://api.nitestats.com/v1/epic/builds/fltoken')
+	rr = r.json()
+
+	fltoken = rr['fltoken']
+	embed = discord.Embed(title=f"fortnite current fltoken {fltoken} ", description="")
+	await ctx.send(embed=embed)
+
 #gets the count of fortnites pak files
 @bot.command()
 async def pakcount(ctx):
